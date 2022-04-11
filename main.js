@@ -12,7 +12,7 @@ mjAPI.config({
 });
 mjAPI.start();
 
-var yourMath = 'Use trial and error to find the value of \( x \) correct to \( 2 \) decimal places \( 4^x=44 \) .';
+var yourMath = '\\frac{xy^{-3}}{x^{4}y} = \\frac{1}{x^{3}y^{4}}';
 
 mjAPI.typeset({
   math: yourMath,
